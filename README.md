@@ -1,5 +1,5 @@
 ﻿1. English manual
-﻿2. Manual en español
+2. Manual en español
 
 # 4 IN A ROW
 
