@@ -1,0 +1,6 @@
+javac -d ../class Start/Main.java Execution/ExecutionProgram.java --> Compile
+
+java -classpath ../class Start.Main --> Run
+
+CTRL + C --> Exit
+
