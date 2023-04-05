@@ -27,11 +27,11 @@ This repository includes:
 
 ## Requirements
 
-To run the program, you must have the Java JVM installed. To check if it is installed, open your computer's terminal and type the following command: ***java -version***
+To run the program, you must have the Java JVM installed and updated to the latest version. To check if it is installed or updated, open your computer's terminal and type the following command: ***java -version***
 
 ![image](https://user-images.githubusercontent.com/110684532/230031245-1ac3d750-d12f-4071-92cc-4a214a69c727.png)
 
-If the command is not recognized, it means that you do not have the JVM installed on your computer. To install it, please follow the link below:
+If the command is not recognized or your JVM is under 18 version, it means that you do not have the JVM installed on your computer or not updated. To install the latest version, please follow the link below:
 
 https://www.oracle.com/es/java/technologies/downloads/
 
@@ -121,11 +121,11 @@ Este repositorio cuenta con:
 
 ## Requisitos
 
-Para ejecutar el programa, debes tener instalado la JVM de java, para comprobar si lo tienes instalado abre la terminal de tu pc y escribe el siguiente comando: ***java -version***
+Para ejecutar el programa, debes tener instalado la JVM de java o disponer de sus últimas versiones, para comprobar si lo tienes instalado o actualizado, abre la terminal de tu pc y escribe el siguiente comando: ***java -version***
 
 ![image](https://user-images.githubusercontent.com/110684532/230031245-1ac3d750-d12f-4071-92cc-4a214a69c727.png)
 
-En el caso de que no reconozca el comando, quiere decir que no tenemos la JVM instalada en nuestro pc, para ello siga el siguiente enlace:
+En el caso de que no reconozca el comando o la versión de tu JVM sea inferior a la 18, quiere decir que no tenemos la JVM instalada en nuestro pc o que bien disponemos de una desactualizada, para arreglar esto siga el siguiente enlace:
 
 https://www.oracle.com/es/java/technologies/downloads/
 
