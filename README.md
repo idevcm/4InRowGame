@@ -9,7 +9,7 @@ It's Connect Four, a game in which two players compete to place 4 same-colored c
 
 In this game, even though it's played on a console, we can enjoy sound and color effects for each of the chips of the two players.
 
-##Repository contents
+## Repository contents
 
 This repository includes:
 
@@ -25,7 +25,21 @@ This repository includes:
 
 - A ***README*** file with instructions in both English and Spanish.
 
-##Execution
+## Requirements
+
+To run the program, you must have the Java JVM installed. To check if it is installed, open your computer's terminal and type the following command: ***java -version***
+
+![image](https://user-images.githubusercontent.com/110684532/230031245-1ac3d750-d12f-4071-92cc-4a214a69c727.png)
+
+If the command is not recognized, it means that you do not have the JVM installed on your computer. To install it, please follow the link below:
+
+https://www.oracle.com/es/java/technologies/downloads/
+
+![image](https://user-images.githubusercontent.com/110684532/230032068-d0c2d320-e0d0-463f-bfc0-ec7040409c21.png)
+
+Here is the direct download link for Windows: https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe
+
+## Execution
 
 Once we have downloaded the repository, we must navigate to the /src folder of the project.
 
@@ -93,7 +107,7 @@ En este juego, a pesar de jugarse en consola, podremos disfrutar de efectos de s
 
 ![image](https://user-images.githubusercontent.com/110684532/229859096-856ea19c-9f77-47ff-bb95-0b11f3c83117.png)
 
-##Contenido del repositorio
+## Contenido del repositorio
 
 Este repositorio cuenta con:
 - Una carpeta **SRC** donde se almacena todo el contenido del programa.
@@ -105,6 +119,19 @@ Este repositorio cuenta con:
 - Una carpeta con los archivos de sonido necesarios para que el programa funcione
 - Un archivo ***README*** con las instrucciones, tanto en inglés como en español.
 
+## Requisitos
+
+Para ejecutar el programa, debes tener instalado la JVM de java, para comprobar si lo tienes instalado abre la terminal de tu pc y escribe el siguiente comando: ***java -version***
+
+![image](https://user-images.githubusercontent.com/110684532/230031245-1ac3d750-d12f-4071-92cc-4a214a69c727.png)
+
+En el caso de que no reconozca el comando, quiere decir que no tenemos la JVM instalada en nuestro pc, para ello siga el siguiente enlace:
+
+https://www.oracle.com/es/java/technologies/downloads/
+
+![image](https://user-images.githubusercontent.com/110684532/230032068-d0c2d320-e0d0-463f-bfc0-ec7040409c21.png)
+
+Enlace directo de descarga para Windows: https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe
 
 ## Ejecución
 
