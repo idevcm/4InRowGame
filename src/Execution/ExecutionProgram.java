@@ -133,7 +133,7 @@ public class ExecutionProgram {
                     System.out.println();
 
                     printData(playerOneName + ", " + playerTwoName + "... Thank you for downloading this game. ");
-                    printData("I'm only a spanish student who wants to improve and be a better programmer and" +
+                    printData("I'm only a spanish student who wants to improve and become a better programmer and " +
                             "enjoys learning a little bit everyday. ");
 
                     System.out.println();
